@@ -10,11 +10,12 @@ Retail sales analysis is the process of collecting, analyzing, and interpreting 
 
 #SKILLS
 Power BI
+SQL
 Visualization
 dashboard
 dax
 data analysis
-grpahs
+Graphs
 
 
 ![image](https://github.com/user-attachments/assets/99923c7e-3850-44b2-a2aa-b0bccfce0c5f)
